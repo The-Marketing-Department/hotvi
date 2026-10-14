@@ -6,7 +6,7 @@ Project hub for TMD's marketing work for **Honoring Our Truth (HOT)**, the menop
 **Client owner:** Quiana
 **Last updated:** Wednesday 14 October 2026
 
-Tasks live as issues in this repo and on the **HOTVI Project** Kanban board. Board setup steps and label meanings are in the `the-marketing-dept/tmd` README.
+Tasks live as issues in this repo and on the **HOTVI Marketing** project board. Board setup steps and label meanings are in the `the-marketing-dept/tmd` README.
 
 ---
 
