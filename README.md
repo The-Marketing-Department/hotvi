@@ -88,7 +88,7 @@ What this means in practice:
 | Person | Role on HOTVI | Hours |
 |---|---|---|
 | Quiana | Client strategy, scope and proposal. Co-leads messaging | |
-| Trixie | Project plan and coordination, funnel/email/platform audit, workflow and automation, co-leads messaging, QC and brand review | ~20/wk across TMD |
+| Trixie | Strategy and approvals: patient journey, co-leads messaging, QC and brand review. Gella and Greth execute | ~15/wk across TMD |
 | Gella | Access and asset inventory, audit support, live asset checks and reporting | ~30/wk across TMD |
 | Greth | Content inventory and scheduling, quality review, social execution | |
 | Tamesh | Website wireframes and design, on Quiana's retainer. The team builds in Squarespace | 50/mo retainer |
