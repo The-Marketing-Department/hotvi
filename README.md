@@ -4,7 +4,7 @@ Project hub for TMD's marketing work for **Honoring Our Truth (HOT)**, the menop
 
 **Project lead:** Trixie
 **Client owner:** Quiana
-**Last updated:** Wednesday 14 October 2026
+**Last updated:** Friday 16 October 2026
 
 Tasks live as issues in this repo and on the **HOTVI Marketing** project board. New issues are added to the board in Backlog automatically by `.github/workflows/add-to-project.yml`. Board setup steps and label meanings are in the [TMD Operations Hub README](https://github.com/The-Marketing-Department/tmd#how-we-use-github).
 
@@ -16,9 +16,9 @@ Tasks live as issues in this repo and on the **HOTVI Marketing** project board. 
 |---|---|
 | Tue 13 Oct | Onboarding call with Naita ✅ |
 | Wed 14 Oct | Internal planning meeting ✅ |
-| **Fri 16 Oct** | Inputs due: access list, asset inventory, workflow and automation requirements and estimate, website estimate |
-| **Mon 19 Oct** | Every team member's tab in the working document is complete |
-| Tue 20 Oct | Quiana consolidates the phased proposal draft |
+| **Fri 16 Oct** | Inputs due: access list and asset inventory. Intake goes to Naita as a Google Form |
+| **Mon 19 Oct** | Every team member's tab in the working document is complete. Patient journey done and the brief sent to Tamesh |
+| **Tue 20 Oct** | Tamesh's website hours estimate (on retainer, no quote). Quiana consolidates the phased proposal draft |
 | **Wed 21 Oct** | Internal proposal review at the team meeting |
 | **Fri 23 Oct** | Proposal and plan presented to Naita |
 | **Wed 18 Nov** | **Final proposal signed** |
@@ -91,7 +91,7 @@ What this means in practice:
 | Trixie | Project plan and coordination, funnel/email/platform audit, workflow and automation, co-leads messaging, QC and brand review | ~20/wk across TMD |
 | Gella | Access and asset inventory, audit support, live asset checks and reporting | ~30/wk across TMD |
 | Greth | Content inventory and scheduling, quality review, social execution | |
-| Tamesh | Website, landing pages and design | |
+| Tamesh | Website wireframes and design, on Quiana's retainer. The team builds in Squarespace | 50/mo retainer |
 | Naita (client) | Clinical accuracy approval, Jane or Tebra, intake and operations | |
 
 ## Source Documents (access@tmdvi.com Drive)
